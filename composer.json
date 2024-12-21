@@ -1,0 +1,22 @@
+{
+    "name": "mbsoft31/loyalty-score",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mbsoft\\LoyaltyScore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mbsoft31",
+            "email": "bekhouche.mouadh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "spatie/laravel-data": "dev-main",
+        "spatie/laravel-package-tools": "^1.17"
+    }
+}
